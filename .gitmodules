@@ -1,1 +1,4 @@
 
+[submodule "docs/miden-base"]
+	path = docs/miden-base
+	url = https://github.com/0xPolygonMiden/miden-base.git
