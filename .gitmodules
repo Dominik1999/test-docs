@@ -5,6 +5,3 @@
 [submodule "docs/miden-vm"]
 	path = docs/miden-vm
 	url = https://github.com/0xPolygonMiden/miden-vm.git
-[submodule "mkdocs-material"]
-	path = mkdocs-material
-	url = https://github.com/squidfunk/mkdocs-material
