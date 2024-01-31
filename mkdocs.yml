@@ -5,3 +5,5 @@ theme:
 
 nav:
   - Home: index.md
+  - Architecture: miden-base/docs/src/architecture.md
+  - Miden VM: miden-vm/docs/src/intro/main.md
